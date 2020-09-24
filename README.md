@@ -1,5 +1,5 @@
 # robofriends
-View it live [here](https://findmyrobofriends.netlify.app/)
+View it live [here](https://hnguy96.github.io/robofriends/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
